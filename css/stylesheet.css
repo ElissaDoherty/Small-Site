@@ -284,7 +284,7 @@ img {
 }
 
 .parallax {
-    background-image: url("C:/Users/potat/Desktop/Small Site/imgs/Ice-Nine-Kills.jpg");
+    background-image: url("../imgs/Ice-Nine-Kills.jpg");
   height: 500px;
     background-attachment: fixed;
     background-position: center;
@@ -384,22 +384,22 @@ img {
   transition: all 400ms ease;
 }
 .accordion1 ul li:nth-child(1) {
-  background-image:url("C:/Users/potat/Desktop/Small Site/imgs/Joe-Ochi2.jpg")
+  background-image:url("../imgs/Joe-Ochi2.jpg")
 }
 .accordion1 ul li:nth-child(2) {
-  background-image: url("C:/Users/potat/Desktop/Small Site/imgs/Spencer3.jpg");
+  background-image: url("../imgs/Spencer3.jpg");
 }
 .accordion1 ul li:nth-child(3) {
-  background-image: url("C:/Users/potat/Desktop/Small Site/imgs/Justin-D.jpg");
+  background-image: url("../imgs/Justin-D.jpg");
 }
 .accordion1 ul li:nth-child(4) {
-  background-image: url("C:/Users/potat/Desktop/Small Site/imgs/Patrick-Galante2.jpg");
+  background-image: url("../imgs/Patrick-Galante2.jpg");
 }
 .accordion1 ul li:nth-child(5) {
-  background-image: url("C:/Users/potat/Desktop/Small Site/imgs/Ricky-Armellino.jpg");
+  background-image: url("../imgs/Ricky-Armellino.jpg");
 }
 .accordion1 ul li:nth-child(6) {
-  background-image: url("C:/Users/potat/Desktop/Small Site/imgs/Dan-Sugarman.jpg");
+  background-image: url("../imgs/Dan-Sugarman.jpg");
 }
 .accordion1 ul:hover li, .accordion ul:focus-within li {
   width: 8%;
