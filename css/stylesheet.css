@@ -145,7 +145,7 @@ footer {
     float: left;
     height: 400px;
     width: 666px;
-    background-image: url("C:/Users/potat/Desktop/Small Site/imgs/texture2.png");
+    background-image: url("../imgs/texture2.png");
     margin-bottom: 20px;
     text-align: center;
 }
@@ -153,7 +153,7 @@ footer {
     float: right;
     width: 667px;
     height: 400px;
-    background-image: url("C:/Users/potat/Desktop/Small Site/imgs/texture2.png");
+    background-image: url("../imgs/texture2.png");
     margin-bottom: 20px;
 }
 #slider-wrapper {
@@ -463,22 +463,22 @@ img {
   transition: all 400ms ease;
 }
 .accordion2 ul li:nth-child(1) {
-  background-image:url("C:/Users/potat/Desktop/Small Site/imgs/last-chance-to-make-amends.jpg")
+  background-image:url("../imgs/last-chance-to-make-amends.jpg")
 }
 .accordion2 ul li:nth-child(2) {
-  background-image: url("C:/Users/potat/Desktop/Small Site/imgs/the-burning.jpg");
+  background-image: url("../imgs/the-burning.jpg");
 }
 .accordion2 ul li:nth-child(3) {
-  background-image: url("C:/Users/potat/Desktop/Small Site/imgs/safe-is-just-a-shadow.jpg");
+  background-image: url("../imgs/safe-is-just-a-shadow.jpg");
 }
 .accordion2 ul li:nth-child(4) {
-  background-image: url("C:/Users/potat/Desktop/Small Site/imgs/predator-becoems-the-prey.jpg");
+  background-image: url("../imgs/predator-becoems-the-prey.jpg");
 }
 .accordion2 ul li:nth-child(5) {
-  background-image: url("C:/Users/potat/Desktop/Small Site/imgs/every-trick-in-the-book.gif");
+  background-image: url("../imgs/every-trick-in-the-book.gif");
 }
 .accordion2 ul li:nth-child(6) {
-  background-image: url("C:/Users/potat/Desktop/Small Site/imgs/silver-scream.jpg");
+  background-image: url("../imgs/silver-scream.jpg");
 }
 .accordion2 ul:hover li, .accordion ul:focus-within li {
   width: 8%;
